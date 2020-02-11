@@ -5,7 +5,7 @@ This is my very fisrt React App!
 This app was made following a course given by [Rocket Seat](https://rocketseat.com.br/), the main functionality is to list a series of "products" (in this case a list of github repositories) based on a api requisiton.
  The items are paginated, allowing the user to navigate through them.
  
- In my project ive used my own API created with [Node JS](https://github.com/nodejs/node), but to simplify i've used the Rocket Seat's API.
+ In my project, i've used my own API created with [Node JS](https://github.com/nodejs/node), but to simplify i've used the Rocket Seat's API.
   
 
 
